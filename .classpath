@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/com/banking/controller"/>
+	<classpathentry kind="src" path="src/com/banking/dao"/>
+	<classpathentry kind="src" path="src/com/banking/dto"/>
+	<classpathentry kind="src" path="src/com/banking/exceptions"/>
+	<classpathentry kind="src" path="src/com/banking/service"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
