@@ -6,7 +6,7 @@ public class CustomerDaoImp implements CustomerDao {
 
 	@Override
 	public Customer createCustomer(Scanner userIn, ArrayList<Customer> customers) {
-		
+		//d
 		String name;
 		int age;
 		int mobileNum;
